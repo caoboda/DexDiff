@@ -1,0 +1,4 @@
+#Sun Sep 08 18:05:09 CST 2019
+base.0=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

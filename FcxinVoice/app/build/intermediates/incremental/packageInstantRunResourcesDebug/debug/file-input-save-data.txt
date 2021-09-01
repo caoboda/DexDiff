@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sun Sep 08 18:05:06 CST 2019
+2.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=userwords
+2.baseType=DIRECTORY
+3.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=iflytek/recognize.xml
+4.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+count=7
+5.baseType=DIRECTORY
+2.path=iflytek/voice_full.png
+5.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=iflytek/voice_empty.png
+6.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=iflytek/warning.png
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=iflytek/voice_bg.9.png
+0.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=iflytek/waiting.png
+1.base=I\:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

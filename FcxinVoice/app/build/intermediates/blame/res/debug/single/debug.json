@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hazardous_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-ldpi\\hazardous_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_popup_dialog.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\add_popup_dialog.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_other_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-hdpi\\other_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_detail.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\message_detail.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listview_selectbg_item.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable\\listview_selectbg_item.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kitchen_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xhdpi\\kitchen_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_kitchen_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\kitchen_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_kitchen_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-ldpi\\kitchen_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_recoverable_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xhdpi\\recoverable_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_recoverable_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\recoverable_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_intelligent_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\intelligent_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_intelligent_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xhdpi\\intelligent_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_recoverable_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-mdpi\\recoverable_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kitchen_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-mdpi\\kitchen_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_img_popupmenu_bg.9.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\img_popupmenu_bg.9.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_other_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\other_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_intelligent_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-mdpi\\intelligent_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speech_up.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable\\speech_up.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hazardous_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\hazardous_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_iat_setting.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\iat_setting.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_element.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\device_element.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name1.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\device_name1.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kitchen_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-hdpi\\kitchen_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_title.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list1.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\device_list1.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_other_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-mdpi\\other_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speech_selector.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable\\speech_selector.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_bar.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hazardous_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-hdpi\\hazardous_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hazardous_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-mdpi\\hazardous_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hazardous_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xhdpi\\hazardous_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speech_down.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable\\speech_down.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_other_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xhdpi\\other_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_recoverable_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-ldpi\\recoverable_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recoverable_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-hdpi\\recoverable_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intelligent_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-hdpi\\intelligent_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_intelligent_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-ldpi\\intelligent_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_other_garbage.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-ldpi\\other_garbage.png"
+    },
+    {
+        "merged": "I:\\workspace\\as\\FcxinVoice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_icon_selected.png.flat",
+        "source": "I:\\workspace\\as\\FcxinVoice\\app\\src\\main\\res\\drawable-xxhdpi\\add_icon_selected.png"
+    }
+]
