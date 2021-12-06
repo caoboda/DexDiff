@@ -10,6 +10,7 @@ public class BsPatchUtils {
         System.loadLibrary("bspatch_utils");
     }
 
+    
     //通过Jni调用bspatch.c中main方法(改名为executePatch)合并旧apk、patch为新的apk
     public static native int patch(String oldApk, String newApk,String patchFile);
 
